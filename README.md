@@ -1,1 +1,1 @@
-# Compiler-From-scratch-in-C
+# Compiler-from-scratch-in-C
